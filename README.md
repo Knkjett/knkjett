@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Knkjett/knkjett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 📖 About Me
+- 🖥 I'm a Full Stack Software Developer
+- 💪 Enjoy working out.
+
+## 🌱 I’m currently learning 
+- About AR/VR with Web Tech
+- OCR(Optical character recognition)
+
+## 📫 How to reach me:
+You can reach me at my social media accounts:
+
+[LinkedIn](https://www.linkedin.com/in/kevin-zheng4783/)
